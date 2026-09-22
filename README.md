@@ -22,6 +22,7 @@ Every solved problem is automatically added to this repository along with its so
 
 Each problem contains its own folder with the solution and documentation.
 
+```
 LeetCode/
 │
 ├── 01-two-sum/
@@ -36,7 +37,8 @@ LeetCode/
 │   ├── README.md
 │   └── Solution.java
 │
-└── ...
+└──
+```
 
 Each problem's documentation includes:
 
