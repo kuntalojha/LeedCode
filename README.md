@@ -1,5 +1,5 @@
 
-LeetCode Daily 🚀
+# LeetCode Daily 🚀
 
 A collection of my daily LeetCode problem-solving journey, where I solve and document coding problems consistently to improve my Data Structures & Algorithms (DSA), problem-solving skills, and coding efficiency.
 
