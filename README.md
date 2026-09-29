@@ -173,14 +173,20 @@ This repository is intended for educational and learning purposes.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kuntalojha/LeedCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kuntalojha/LeedCode/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/kuntalojha/LeedCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kuntalojha/LeedCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kuntalojha/LeedCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kuntalojha/LeedCode/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/kuntalojha/LeedCode/tree/main/0088-merge-sorted-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kuntalojha/LeedCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/kuntalojha/LeedCode/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
